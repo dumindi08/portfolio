@@ -68,7 +68,7 @@ nav ul li a:hover {
   align-items: center;
 }
 
-.hero .profile-pic {
+.hero .profile {
   width: 150px;
   height: 150px;
   border-radius: 50%;
@@ -279,3 +279,4 @@ footer {
   display: inline-block;
 
 }
+
