@@ -69,8 +69,8 @@ nav ul li a:hover {
 }
 
 .hero .profile {
-  width: 150px;
-  height: 150px;
+  width: 160px;
+  height: 160px;
   border-radius: 50%;
   margin-bottom: 20px;
   object-fit: cover;
@@ -279,4 +279,5 @@ footer {
   display: inline-block;
 
 }
+
 
