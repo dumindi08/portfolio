@@ -69,10 +69,11 @@ nav ul li a:hover {
 }
 
 .hero .profile-pic {
-  width: 160px;
-  height: 160px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   margin-bottom: 20px;
+  object-fit: cover;
   border: 3px solid #00bcd4; /* subtle cyan accent */
   box-shadow: 0 0 20px rgba(0,188,212,0.5);
 }
@@ -276,4 +277,5 @@ footer {
 .btn {
   text-decoration: none;
   display: inline-block;
+
 }
